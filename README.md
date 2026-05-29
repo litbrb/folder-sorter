@@ -6,3 +6,5 @@
 4. Follow the prompts
 
    This is a testing project more than anything else so i don't know why'd you want to use this
+
+Please do not put any sensitive info in the file names since I have no responsibility of what happens when that data is sent to the ai
